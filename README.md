@@ -1,5 +1,5 @@
 # ps2x_example
-PS2X Arduino Library
+PS2X Arduino Library <br>
 https://github.com/madsci1016/Arduino-PS2X/zipball/5d2be701af64d826d268301d83119a6d2ad04f15
 
 ![Maker Tutor PS2 Joystick](https://1.bp.blogspot.com/-jTm9CcXHktQ/X9xEqPqt5xI/AAAAAAABkdM/mM46gKoHc8kz18BiJuzGuvQzSAsmB6WYwCNcBGAsYHQ/w640-h360/arduino-ps2-joy-pinout.png)
